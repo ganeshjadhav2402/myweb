@@ -20,43 +20,43 @@
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "name": "Touchpady",
+    "desc": "Wordpress Website using Theme Builder Plugnis with Woocommerce and Product Sale Buy Perfomance.",
+    "image": "touchpady",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://touchpady.in/",
+      "code": "https://github.com/ganeshjadhav2402/"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "name": "Comet Screws",
+    "desc": "Wordpress Template and Posts with Admin Dashboard and User Responsive.",
+    "image": "cometscrews",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://cometscrews.com/",
+      "code": "https://github.com/ganeshjadhav2402/"
     }
   },
   {
-    "name": "Flipkart PHP",
+    "name": "VTEK Metals",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
+    "image": "vtekmetals",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://vtekmetal.com/",
+      "code": "https://github.com/ganeshjadhav2402/"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+    "image": "agecalc",
+    "category": "portfolio",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://ganeshjadhav02-ganesh-jadhavs-24.vercel.app/",
+      "code": "https://github.com/ganeshjadhav2402/myweb"
     }
   }
 ]
