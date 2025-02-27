@@ -3,7 +3,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://portfoli-websiteganeshjadhav02-ganesh-jadhavs-projects-5e1437bf.vercel.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://ganeshjadhav02-ganesh-jadhavs-24.vercel.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
